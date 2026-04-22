@@ -1,4 +1,4 @@
-# Font & Theme Management API
+# Font API
 
 A professional Flask backend API for managing font uploads, theme collections, and downloadable theme packages.
 
